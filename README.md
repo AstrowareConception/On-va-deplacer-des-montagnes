@@ -8,7 +8,7 @@ Vous allez reproduire une maquette en utilisant bootstrap et tout ce que vous av
 
 # Consigne
 
-Vous devez écrire le code HTML (index.html) et CSS (ccs/custom.css) pour reproduire la charte graphique jointe à l’identique. Ajoutez les fichiers nécessaires (bootstrap).
+Vous devez écrire le code HTML (index.html) et CSS (ccs/custom.css) pour reproduire la charte graphique jointe le plus fidèlement possible. Ajoutez les fichiers nécessaires (bootstrap). Vous pouvez aussi utiliser d'autres ressources externes si vous le souhaitez (frameworks)
 
 Vos références sont les fichiers maquette *.jpg inclus dans le projet
 
