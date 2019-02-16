@@ -34,9 +34,8 @@ Le menu sera composé des rubriques suivantes :
 * About me (href="#about")
 * My Blog (href="#blog")
 * My history (href="#history")
-* Look my Photos (href="#photos")
+* Look my Projects (href="#photos")
 * Get in Touch! (href="#contact")
-* Download (href="#")
 
 Le menu apparait seulement lorsqu'on clique sur l'icone "bars".
 
