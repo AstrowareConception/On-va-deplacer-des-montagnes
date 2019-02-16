@@ -8,9 +8,9 @@ Vous allez reproduire une maquette en utilisant bootstrap et tout ce que vous av
 
 # Consigne
 
-Vous devez écrire le code HTML (index.html) et CSS (ccs/custom.css) pour reproduire la charte graphique jointe le plus fidèlement possible. Ajoutez les fichiers nécessaires (bootstrap). Vous pouvez aussi utiliser d'autres ressources externes si vous le souhaitez (frameworks)
+Vous devez écrire le code HTML (index.html) et CSS pour reproduire la charte graphique jointe le plus fidèlement possible. Ajoutez les fichiers nécessaires (bootstrap). Vous pouvez aussi utiliser d'autres ressources externes si vous le souhaitez (frameworks)
 
-Vos références sont les fichiers maquette *.jpg inclus dans le projet
+Vos références sont les fichiers maquette *.jpg* inclus dans le projet
 
 Ce projet doit être fait en binôme.
 
@@ -48,6 +48,7 @@ Pour afficher les icônes qui ne sont pas présentes dans les images, vous utili
 
 * Créer la fonctionnalité 'back-to-top' : quand on clique sur la flèche, faire remonter au début de la page avec un mouvement de scrolling agréable à l'utilisation
 * Faire disparaitre le menu lorsqu'on clique hors de la zone menu
+* Vous pouvez ajouter des effets supplémentaires pour améliorer l'ergonomie de la page à votre convenance sans toutefois impacter la maquette
 
 # Rendu 
 
