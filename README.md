@@ -51,7 +51,7 @@ Pour afficher les icônes qui ne sont pas présentes dans les images, vous utili
 
 # Rendu 
 
-N’hésitez pas à rendre un travail incomplet même si vous avez eu l’un ou l’autre blocage. Un résultat incomplet et toujours mieux que rien du tout !
+N’hésitez pas à rendre un travail incomplet même si vous avez eu l’un ou l’autre blocage. Un résultat incomplet est toujours mieux que rien du tout !
 
 Vous déposerez votre travail sur un repository github contenant tous les fichiers du projet et rendrez le lien vers ce repository.
 
